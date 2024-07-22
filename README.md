@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
 <h3 align="center">A computer science student from Norway</h3>
 
-- 📫 How to reach me **Axel.lundeby@gmail.com**
+- 📫 How to reach me **Axel.studentoghjem@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
